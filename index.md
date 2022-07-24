@@ -1,4 +1,4 @@
-# Header 1 Who Is VidelicetWDC
+# Who Is VidelicetWDC
 
 You can use the [editor on GitHub](https://github.com/greensleeves01/videlicet.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
