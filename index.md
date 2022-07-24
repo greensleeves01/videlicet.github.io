@@ -15,9 +15,9 @@ the details to us and we'll get you up and running.
 
 # How to Contact Us
 
-When you're ready to get serious about your digital presence, give us a call.
-Select what date/time works for your schedule in our calendar to set up a 15-minute 
-FREE consultation today.  
+When you're ready to get serious about your digital presence, give us a call.  
+Select what date/time works for you and schedule a 15-minute 
+FREE consultation today.
 
 [Book A Call](https://calendly.com/videlicetwebdesign 'Book A Call')
 
