@@ -1,7 +1,7 @@
 # Who Is VidelicetWDC
 
 Videlicet Website Design Consulting is a one-stop shop for website needs including
-- Domain Regstration
+- Domain Registration
 - Web hosting
 - Email configuration
 - Wordpress 
@@ -12,8 +12,8 @@ Videlicet Website Design Consulting is a one-stop shop for website needs includi
 Videlicet specializes in mainly small businesses that need a digital presence but don't have time to figure out what's involved.
 
 # How to Contact Us
-When you're ready to get serious about your website and your digital presence, you can choose your 
-appointment date/time in our calendar for a 15-minute FREE consultation.
+When you're ready to get serious about your digital presence, give us a call.
+Select what time works for your schedule in our calendar to set up a 15-minute FREE consultation.
 
 [Book A Call](https://calendly.com/videlicetwebdesign 'Book A Call')
 
