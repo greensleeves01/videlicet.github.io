@@ -3,6 +3,7 @@
 Videlicet Website Design Consulting is a one-stop shop for website needs including
 - Domain Regstration
 - Web hosting
+- Email configuration
 - Wordpress 
 - Maintenance
 
