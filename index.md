@@ -15,8 +15,7 @@ Videlicet specializes in mainly small businesses that need a digital presence bu
 When you're ready to get serious about your website and your digital presence, you can choose your 
 appointment date/time in our calendar for a 15-minute FREE consultation.
 
-[Book A Call]
-(https://calendly.com/videlicetwebdesign/ 'Book A Call')
+[Book A Call](https://calendly.com/videlicetwebdesign/ 'Book A Call')
 
 
 
