@@ -5,7 +5,7 @@ Videlicet Website Design Consulting is a one-stop shop for website needs includi
 - Web hosting
 - Use your domain for your email
 - Wordpress 
-- Maintenance
+- Maintenance and more
 
 # Who Can Benefit from VidelicetWDC
 
