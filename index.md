@@ -2,9 +2,9 @@
 
 Videlicet Website Design Consulting is a one-stop shop for website needs including:
 - Domain Registration
-- Web hosting
+- Web hosting (LAMP stack)
 - Use your domain for your email
-- Wordpress 
+- Wordpress
 - Maintenance and more
 
 # Who Can Benefit from VidelicetWDC
