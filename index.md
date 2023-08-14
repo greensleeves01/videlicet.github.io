@@ -20,7 +20,7 @@ in our calendar.
 
 [Book A Call](https://calendly.com/videlicetwebdesign 'Book A Call')
 
-# For encrypted comms please find our public key 
+# Our Public Key for Encrypted Comms 
 $ gpg --keyserver pgp.mit.edu --search-keys cthulhu@redhatbox.com
 
 
